@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app api source coude
+I'm create this app for learnig more about django, Docker and integration with circleci
